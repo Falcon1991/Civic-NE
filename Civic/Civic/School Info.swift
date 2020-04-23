@@ -1,5 +1,5 @@
 //
-//  SecondViewController.swift
+//  FirstViewController.swift
 //  Civic
 //
 //  Created by Dillon Falkinburg on 4/23/20.
@@ -8,7 +8,7 @@
 
 import UIKit
 
-class Info: UIViewController {
+class SchoolInformation: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()

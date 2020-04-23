@@ -14,6 +14,8 @@
 		F3FF32C52452353700879A99 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = F3FF32C32452353700879A99 /* Main.storyboard */; };
 		F3FF32C72452353A00879A99 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = F3FF32C62452353A00879A99 /* Assets.xcassets */; };
 		F3FF32CA2452353A00879A99 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = F3FF32C82452353A00879A99 /* LaunchScreen.storyboard */; };
+		F3FF32D224523E1700879A99 /* Census.swift in Sources */ = {isa = PBXBuildFile; fileRef = F3FF32D124523E1700879A99 /* Census.swift */; };
+		F3FF32D42452428500879A99 /* School Info.swift in Sources */ = {isa = PBXBuildFile; fileRef = F3FF32D32452428500879A99 /* School Info.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +28,8 @@
 		F3FF32C62452353A00879A99 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		F3FF32C92452353A00879A99 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		F3FF32CB2452353A00879A99 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		F3FF32D124523E1700879A99 /* Census.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Census.swift; sourceTree = "<group>"; };
+		F3FF32D32452428500879A99 /* School Info.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "School Info.swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -61,7 +65,9 @@
 				F3FF32BB2452353600879A99 /* AppDelegate.swift */,
 				F3FF32BD2452353600879A99 /* SceneDelegate.swift */,
 				F3FF32BF2452353600879A99 /* FirstViewController.swift */,
+				F3FF32D124523E1700879A99 /* Census.swift */,
 				F3FF32C12452353700879A99 /* SecondViewController.swift */,
+				F3FF32D32452428500879A99 /* School Info.swift */,
 				F3FF32C32452353700879A99 /* Main.storyboard */,
 				F3FF32C62452353A00879A99 /* Assets.xcassets */,
 				F3FF32C82452353A00879A99 /* LaunchScreen.storyboard */,
@@ -143,6 +149,8 @@
 			files = (
 				F3FF32C22452353700879A99 /* SecondViewController.swift in Sources */,
 				F3FF32C02452353600879A99 /* FirstViewController.swift in Sources */,
+				F3FF32D42452428500879A99 /* School Info.swift in Sources */,
+				F3FF32D224523E1700879A99 /* Census.swift in Sources */,
 				F3FF32BC2452353600879A99 /* AppDelegate.swift in Sources */,
 				F3FF32BE2452353600879A99 /* SceneDelegate.swift in Sources */,
 			);
